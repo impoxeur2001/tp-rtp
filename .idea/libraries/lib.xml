@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/lib/jmf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jmf-native.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/sound.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../JMFlib (1)" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="jar://$PROJECT_DIR$/dist/lib/jmf.jar!/" />
+    </excluded>
+    <jarDirectory url="file://$PROJECT_DIR$/../../JMFlib (1)" recursive="false" />
+  </library>
+</component>
